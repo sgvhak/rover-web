@@ -1,4 +1,5 @@
 
+Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
 # About 
 [SGVHAK](http://www.sgvhak.org/) is a maker group based in the San Gabriel Valley.
@@ -11,7 +12,7 @@ The SGVHAK maker group built the rover over the period of 3 months, starting in 
 
 By March 2018, we were able to exhibit the SGVHAK rover at the [SCaLE 16x](https://www.socallinuxexpo.org/scale/16x), the [Caltech Science for March](http://www.caltech.edu/content/caltech-science-march).  In December, we exhibited at the [DTLA Mini Maker Faire](https://dtla.makerfaire.com/).  Our talk, "The Trouble with Rovers" was recently accepted for [SCaLE 17x](https://www.socallinuxexpo.org/scale/17x)
 
-Building rovers is a never-ending process.  The SGVHAK rover itself is always under construction.    We have plans to add a robot arm, pan-tilt webcam, and maybe even Lidar.   Our members have already started coming up with their own rover designs and builds.  All the code and 3D printer files are on GitHub.  
+Building rovers is a never-ending process.  The SGVHAK rover itself is always under construction.  We recently changed out the planetary gears, which were originally 60:1 with new 3D printed gears that are 21:1, so it now drives 3 times faster. We have plans to add a robot arm, pan-tilt webcam, and maybe even Lidar.  Roger wants to move to ROS. Our members have already started coming up with their own rover designs and builds.  All the code and 3D printer files are on GitHub.  
 
 # Website and documentation
 This is currently under construction.  A great deal of documentation and photos and videos are in Google Drive or on Lan's phone and computer and needs to be cleaned up.  
