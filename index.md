@@ -12,6 +12,8 @@ The SGVHAK maker group built the rover over the period of 3 months, starting in 
 
 By March 2018, we were able to exhibit the SGVHAK rover at the [SCaLE 16x](https://www.socallinuxexpo.org/scale/16x), the [Caltech Science for March](http://www.caltech.edu/content/caltech-science-march).  In May, we were invited to the JPL IT Expo, a JPL internal event highlighting the latest trends in technology. In December, we exhibited at the [DTLA Mini Maker Faire](https://dtla.makerfaire.com/).  Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) was recently accepted for [SCaLE 17x](https://www.socallinuxexpo.org/scale/17x), which will be at the Pasadena Convention Center on March 7-9, 2019.
 
+We were interviewed by the Command Line Heroes podcast.  You may hear some familiar voices on [season 2, episode 8 "Open Curiosity"](https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity).
+
 Below is the JPL Open Source Rover, the SGVHAK Rover, and Sawppy at the JPL IT Expo.
 ![alt text](JPL_IT_EXPO2.jpg "Rovers at JPL IT Expo")
 
@@ -30,6 +32,7 @@ Roger Cheng was our best documentarian and has a lot of info and photos in his b
 * Dave's wheel design: [https://github.com/DavidMFlynn/RoverWheel](https://github.com/DavidMFlynn/RoverWheel)
 * Roger's software: [https://github.com/Roger-random/SGVHAK_Rover](https://github.com/Roger-random/SGVHAK_Rover)
 * Sawppy, a $500 rover inspired by the JPL Open Source Rover: [https://hackaday.io/project/158208-sawppy-the-rover](https://hackaday.io/project/158208-sawppy-the-rover)
+
 
 # JPL Open Source Rover Links
 * Landing Page: [https://opensourcerover.jpl.nasa.gov/](https://opensourcerover.jpl.nasa.gov/)
