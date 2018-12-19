@@ -12,13 +12,17 @@ The SGVHAK maker group built the rover over the period of 3 months, starting in 
 
 By March 2018, we were able to exhibit the SGVHAK rover at the [SCaLE 16x](https://www.socallinuxexpo.org/scale/16x), the [Caltech Science for March](http://www.caltech.edu/content/caltech-science-march).  In May, we were invited to the JPL IT Expo, a JPL internal event highlighting the latest trends in technology. In December, we exhibited at the [DTLA Mini Maker Faire](https://dtla.makerfaire.com/).  Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) was recently accepted for [SCaLE 17x](https://www.socallinuxexpo.org/scale/17x), which will be at the Pasadena Convention Center on March 7-9, 2019.
 
-We were interviewed by the Command Line Heroes podcast.  You may hear some familiar voices on [season 2, episode 8 "Open Curiosity"](https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity).
+We were interviewed by the [Command Line Heroes podcast](https://www.redhat.com/en/command-line-heroes).  You may hear some familiar voices on [season 2, episode 8 "Open Curiosity"](https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity).
+<br /><img src="CLH-S2-E8-Twitter.jpg" alt="Command Line Heroes S2 E8 twitter image" width="250px" />
 
 Below is the JPL Open Source Rover, the SGVHAK Rover, and Sawppy at the JPL IT Expo.
 ![alt text](JPL_IT_EXPO2.jpg "Rovers at JPL IT Expo")
 
 This is [a personal account](https://photos.app.goo.gl/r8BsmNv8qCP4MZig7) of our adventures at the DTLA Mini Maker Faire 2018, illustrated with photos and links.
 
+<br /><img src='https://lh3.googleusercontent.com/1g7wIhjxpVjkkG-PJa-R4rUi4j_nqYVR0J65g3nmHawAAS8xN7q4sVb98Rw7O7nK_ZNwMCbxC_yNjAB9YE-p1hH69s2Fdw7BW_0-WBWQ_d9MzksSO8i4zP6VpuQDbng-8asxwiZVxA=w2400' alt="Kids driving SGVHAK Rover at DTLA Mini Maker Faire" width="250px" />
+
+# Future plans
 Building rovers is a never-ending process.  The SGVHAK rover itself is always under construction.  We recently changed out the planetary gears, which were originally 60:1 with new 3D printed gears that are 21:1, so it now drives 3 times faster. We have plans to add a robot arm, pan-tilt webcam, and maybe even Lidar.  Roger wants to move to ROS. Our members have already started coming up with their own rover designs and builds.  All the code and 3D printer files are on GitHub.  
 
 # Website and documentation
