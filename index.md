@@ -1,6 +1,10 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
+# SCALE 17x 
+We are currently at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center.
+Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers), is in Ballroom G on Saturday, March 9th @ 4:30pm.
+
 # About 
 [SGVHAK](http://www.sgvhak.org/) is a maker group based in the San Gabriel Valley.
 
@@ -10,7 +14,9 @@ JPL beta-tested their build instructions at a few schools and with the SGVHAK ma
 
 The SGVHAK maker group built the rover over the period of 3 months, starting in January 2018, while giving JPL significant feedback and build photos.   The team mainly consisted of Lan Dang, Roger Cheng, David Flynn, John Wang, Emily Velasco, and Amy Baldwin.  We diverged from the original design most significantly in the wheel design, motor selection, and software. 
 
-By March 2018, we were able to exhibit the SGVHAK rover at the [SCaLE 16x](https://www.socallinuxexpo.org/scale/16x), the [Caltech Science for March](http://www.caltech.edu/content/caltech-science-march).  In May, we were invited to the JPL IT Expo, a JPL internal event highlighting the latest trends in technology. In December, we exhibited at the [DTLA Mini Maker Faire](https://dtla.makerfaire.com/).  Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) was recently accepted for [SCaLE 17x](https://www.socallinuxexpo.org/scale/17x), which will be at the Pasadena Convention Center on March 7-9, 2019.
+By March 2018, we were able to exhibit the SGVHAK rover at the [SCaLE 16x](https://www.socallinuxexpo.org/scale/16x), the [Caltech Science for March](http://www.caltech.edu/content/caltech-science-march).  In May, we were invited to the JPL IT Expo, a JPL internal event highlighting the latest trends in technology. In December, we exhibited at the [DTLA Mini Maker Faire](https://dtla.makerfaire.com/).  
+
+We are speaking at [SCaLE 17x](https://www.socallinuxexpo.org/scale/17x) on March 9th at the Pasadena Convention Center.
 
 We were interviewed by the [Command Line Heroes podcast](https://www.redhat.com/en/command-line-heroes).  You may hear some familiar voices on [season 2, episode 8 "Open Curiosity"](https://www.redhat.com/en/command-line-heroes/season-2/open-curiosity).
 <br /><img src="CLH-S2-E8-Twitter.jpg" alt="Command Line Heroes S2 E8 twitter image" width="250px" />
@@ -24,6 +30,8 @@ This is [a personal account](https://photos.app.goo.gl/r8BsmNv8qCP4MZig7) of our
 
 # Future plans
 Building rovers is a never-ending process.  The SGVHAK rover itself is always under construction.  We recently changed out the planetary gears, which were originally 60:1 with new 3D printed gears that are 21:1, so it now drives 3 times faster. We have plans to add a robot arm, pan-tilt webcam, and maybe even Lidar.  Roger wants to move to ROS. Our members have already started coming up with their own rover designs and builds.  All the code and 3D printer files are on GitHub.  
+
+We participate in the Open Source Rover community, which started having monthly video teleconferences for the builders.  Our first call on March 6, 2019, was a huge hit.
 
 # Website and documentation
 This is currently under construction.  A great deal of documentation and photos and videos are in Google Drive or on Lan's phone and computer and needs to be cleaned up.  
