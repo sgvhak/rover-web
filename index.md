@@ -1,9 +1,11 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
-# SCALE 17x 
+# Current Events
 We are currently at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center.
 Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers), is in Ballroom G on Saturday, March 9th @ 4:30pm.
+
+We will be exhibiting at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
 
 # About 
 [SGVHAK](http://www.sgvhak.org/) is a maker group based in the San Gabriel Valley.
@@ -50,3 +52,26 @@ Roger Cheng was our best documentarian and has a lot of info and photos in his b
 * Landing Page: [https://opensourcerover.jpl.nasa.gov/](https://opensourcerover.jpl.nasa.gov/)
 * GitHub: [https://github.com/nasa-jpl/open-source-rover](https://github.com/nasa-jpl/open-source-rover)
 * Community Forum: [https://www.tapatalk.com/groups/jpl_opensource_rover/](https://www.tapatalk.com/groups/jpl_opensource_rover/)
+
+
+# Timeline
+For posterity, here is a timeline of events, to the best of our memory.
+
+* Dec 2017 - Joined JPL Open Source Rover beta build group
+* Jan 4, 2018 - JPL reference documentation available
+* Jan 5, 2018 - Started buying parts
+* Jan 29, 2018 - testing wheel assembly, beginning of software interface
+* Feb 15, 2018 - Toured JPL, saw Curiosity engineering model, met JPL OSR and talked shop
+* March 10, 2018 - SGVHAK Rover and JPL OSR exhibit at SCALE The Next Generation Playground
+* March 31, 2018 - SGVHAK Rover exhibits at Caltech Science for March
+* May 8, 2018 - SGVHAK Rover and Sawppy invited to JPL IT Expo
+* Jul 31, 2018 - JPL formally announces JPL Open Source Rover
+* Oct 2018 - upgrade planetary gears to speed up SGVHAK rover
+* Oct 22, 2018 - visited by Command Line Heroes audio producer to get soundbites from SGVHAK rover build session
+* Dec 1, 2018 - DTLA Mini Maker Faire - faster rover
+* Dec 18, 2018 - Command Line Heroes podcast is live.  Listen for us at 3:13 to 3:58 and 24:47 to 25:16
+* Feb 9, 2019 - Santa Susana STEAM Expo - new magnetic hubcaps
+* Feb 20, 2019 - SGVHAK Rover borrowed for JPL outreach event at Logan McBride HS in Long Beach
+* Mar 9, 2019 - Giving the "Trouble with Rovers" talk at SCALE 17x
+* Mar 16, 2019 - Caltech Science for March
+
