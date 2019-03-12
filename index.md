@@ -2,8 +2,7 @@
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
 # Current Events
-We are currently at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center.
-Our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers), is in Ballroom G on Saturday, March 9th @ 4:30pm.
+We just presented our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) ([Slides](https://docs.google.com/presentation/d/1sczb-v-xm3jRvuGROQYNIzgqs63-SdqZXXZWUAy3kEY/present#slide=id.p)) at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center on March 9th.
 
 We will be exhibiting at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
 
