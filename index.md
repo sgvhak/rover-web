@@ -1,10 +1,17 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
-# Current Events
+# Contact Us
+You may leave comments or messages on this [form](https://goo.gl/forms/TeSy0wcGn18B2Ec02).
+
+We are looking for a name for our rover.  Please submit your suggestions [here](https://goo.gl/forms/l63UhbaoUfffEeKj1).
+
+# Current Events/Plans
+We just exhibited at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
+
 We just presented our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) ([Slides](https://docs.google.com/presentation/d/1sczb-v-xm3jRvuGROQYNIzgqs63-SdqZXXZWUAy3kEY/present#slide=id.p)) at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center on March 9th.
 
-We will be exhibiting at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
+
 
 # About 
 [SGVHAK](http://www.sgvhak.org/) is a maker group based in the San Gabriel Valley.
@@ -71,6 +78,6 @@ For posterity, here is a timeline of events, to the best of our memory.
 * Dec 18, 2018 - Command Line Heroes podcast is live.  Listen for us at 3:13 to 3:58 and 24:47 to 25:16
 * Feb 9, 2019 - Santa Susana STEAM Expo - new magnetic hubcaps
 * Feb 20, 2019 - SGVHAK Rover borrowed for JPL outreach event at Logan McBride HS in Long Beach
-* Mar 9, 2019 - Giving the "Trouble with Rovers" talk at SCALE 17x
-* Mar 16, 2019 - Caltech Science for March
+* Mar 9, 2019 - "Trouble with Rovers" talk at SCALE 17x - new LED face
+* Mar 16, 2019 - Caltech Science for March, with Santa Susana HS
 
