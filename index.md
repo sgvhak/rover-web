@@ -1,12 +1,17 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
-# Contact Us
-You may leave comments or messages on this [form](https://goo.gl/forms/TeSy0wcGn18B2Ec02).
+# September 2023
+After a long hiatus during the pandemic, we are happy to hear about the [OSR redesign](https://hackaday.com/2023/09/16/open-source-rover-gets-an-update-for-easier-building/) and will be looking forward to building another rover, as well as updating the documentation on this page.
 
-We are looking for a name for our rover.  Please submit your suggestions [here](https://goo.gl/forms/l63UhbaoUfffEeKj1).
+In the meantime, the SGVHAK Rover hulked up sometime around 2020 and now looks like this.  
+<img src="sgvhak_rover_new.jpg" alt="SGVHAK Rover redesign" width="300px" />
 
-# Current Events/Plans
+And it was immortalized in a [special quilt](https://www.pasadenaweekly.com/special_issues/engineers-by-day-quilters-by-night-pasadena-museum-of-history-exhibits-the-jpl-quilt/article_fbb888e2-0aea-11ee-853f-9fefd448fb5d.html).  
+<img src="sgvhak_rover_quilt.jpg" alt="SGVHAK Rover redesign" width="300px" />
+
+
+# March 2020
 We just exhibited at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
 
 We just presented our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) ([Slides](https://docs.google.com/presentation/d/1sczb-v-xm3jRvuGROQYNIzgqs63-SdqZXXZWUAy3kEY/present#slide=id.p)) at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center on March 9th.
