@@ -1,6 +1,11 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
 
+# October 2023
+It's Oct 20th, and we're ready to start!  First, we'll start by ordering [all the parts](https://github.com/nasa-jpl/open-source-rover/tree/master/parts_list).  The goal is to get the bulk of the build done by the end of Thanksgiving weekend.  In the meantime, we'll set up some spaces for us to record our progress and lessons learned, and what our ambitions are once the build is complete.
+
+We also now have a group email address, if you want to contact us: `sgvhakrover at gmail dot com`
+
 # September 2023
 After a long hiatus during the pandemic, we are happy to hear about the [OSR redesign](https://hackaday.com/2023/09/16/open-source-rover-gets-an-update-for-easier-building/) and will be looking forward to building another rover, as well as updating the documentation on this page.
 
