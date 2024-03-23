@@ -6,19 +6,19 @@ It's March 23rd.
 
 We've had stop and go progress with the rover.  We've ordered the bulk of what we needed, but there are still parts on back order.  We have not started building yet as the team has been busy working on other projects.  And we are hopefully getting new team members for the SGVHAK Rover.
 
-Lan is more heavily involved with the Open Source Rover maintainers this year.  Now that the redesign is public, we want to see people building the rovers and adding their builds to the [builders' gallery|https://open-source-rover.readthedocs.io/en/latest/examples/index.html#Instructions-for-adding-your-build].  
+Lan is more heavily involved with the Open Source Rover maintainers this year.  Now that the redesign is public, we want to see people building the rovers and adding their builds to the [builders' gallery](https://open-source-rover.readthedocs.io/en/latest/examples/index.html#Instructions-for-adding-your-build).  
 
 We are also hoping to get feedback on the documentation; it's new builders that point out the small inconsistencies and issues that the maintainers overlooked because they've been working on it for so long.
 
-We attended the [Southern California Linux Expo (SCaLE 21x)|https://www.socallinuxexpo.org/scale/21x/], which had some great Open Source Rover content.  We will have a bunch of photos to share later.   
+We attended the [Southern California Linux Expo (SCaLE 21x)](https://www.socallinuxexpo.org/scale/21x/), which had some great Open Source Rover content.  We will have a bunch of photos to share later.   
 
-Achille, who leads the OSR maintainers, gave a fantastic talk to a packed room of over 100 people on [How to build a Mars Rover for Earth|https://www.socallinuxexpo.org/scale/21x/presentations/how-build-mars-rover-earth-nasa-jpl-open-source-rover].  It was the story of the Open Source Rover and how to grow an open source hardware community.  The video is missing some of the beginning and ending, but there's a lot of great content there, and the slides are available.
+Achille, who leads the OSR maintainers, gave a fantastic talk to a packed room of over 100 people on [How to build a Mars Rover for Earth](https://www.socallinuxexpo.org/scale/21x/presentations/how-build-mars-rover-earth-nasa-jpl-open-source-rover).  It was the story of the Open Source Rover and how to grow an open source hardware community.  The video is missing some of the beginning and ending, but there's a lot of great content there, and the slides are available.
 
-There were a number of rovers at the [The SCaLE Next Generation Playground|https://www.socallinuxexpo.org/scale/21x/events/scale-kids], which is the teen programming for SCaLE.  Santa Susana HS was there with a booth showing off the Open Source Rover they had built that semester. It was almost complete.  They fielded a bunch of questions about the project.   Achille lent his rover Raf, and so people were able to see and drive the rover.  And we had our SGVHAK rover there, so we could show the variation in what we can do with the rover platform, as well as the difference in design and look.
+There were a number of rovers at the [The SCaLE Next Generation Playground](https://www.socallinuxexpo.org/scale/21x/events/scale-kids), which is the teen programming for SCaLE.  Santa Susana HS was there with a booth showing off the Open Source Rover they had built that semester. It was almost complete.  They fielded a bunch of questions about the project.   Achille lent his rover Raf, and so people were able to see and drive the rover.  And we had our SGVHAK rover there, so we could show the variation in what we can do with the rover platform, as well as the difference in design and look.
 
 
 
-We are hoping for new influx of people who are interested in [The Open Source Rover|https://open-source-rover.readthedocs.io/en/latest/] and will join our [Open Source Rover Slack community|https://join.slack.com/t/opensourcerover/shared_invite/zt-mfe0viua-FhcYsNb3S9vUra99uF3IBw].
+We are hoping for new influx of people who are interested in [The Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) and will join our [Open Source Rover Slack community](https://join.slack.com/t/opensourcerover/shared_invite/zt-mfe0viua-FhcYsNb3S9vUra99uF3IBw).
 
 # October 2023
 It's Oct 20th, and we're ready to start!  First, we'll start by ordering [all the parts](https://github.com/nasa-jpl/open-source-rover/tree/master/parts_list).  The goal is to get the bulk of the build done by the end of Thanksgiving weekend.  In the meantime, we'll set up some spaces for us to record our progress and lessons learned, and what our ambitions are once the build is complete.
