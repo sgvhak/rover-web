@@ -1,5 +1,5 @@
 
-Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)
+Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)  You can contact us at the following email address: `sgvhakrover at gmail dot com`
 
 # March 2024
 It's March 23rd.
