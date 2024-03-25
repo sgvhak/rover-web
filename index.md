@@ -1,6 +1,9 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)  You can contact us at the following email address: `sgvhakrover at gmail dot com`
 
+# A Rover's Tour of JPL
+Just for fun, we did a [A Rover's Tour of JPL](https://photos.app.goo.gl/5oCEGBRYethgrxN69), a photo story of special JPL tour for Achille's rover, Raf.  I'm really proud about how it turned out.  
+
 # March 2024
 It's March 23rd.
 
@@ -15,8 +18,6 @@ We attended the [Southern California Linux Expo (SCaLE 21x)](https://www.socalli
 Achille, who leads the OSR maintainers, gave a fantastic talk to a packed room of over 100 people on [How to build a Mars Rover for Earth](https://www.socallinuxexpo.org/scale/21x/presentations/how-build-mars-rover-earth-nasa-jpl-open-source-rover).  It was the story of the Open Source Rover and how to grow an open source hardware community.  The video is missing some of the beginning and ending, but there's a lot of great content there, and the slides are available.
 
 There were a number of rovers at the [The SCaLE Next Generation Playground](https://www.socallinuxexpo.org/scale/21x/events/scale-kids), which is the teen programming for SCaLE.  Santa Susana HS was there with a booth showing off the Open Source Rover they had built that semester. It was almost complete.  They fielded a bunch of questions about the project.   Achille lent his rover Raf, and so people were able to see and drive the rover.  And we had our SGVHAK rover there, so we could show the variation in what we can do with the rover platform, as well as the difference in design and look.
-
-
 
 We are hoping for new influx of people who are interested in [The Open Source Rover](https://open-source-rover.readthedocs.io/en/latest/) and will join our [Open Source Rover Slack community](https://join.slack.com/t/opensourcerover/shared_invite/zt-mfe0viua-FhcYsNb3S9vUra99uF3IBw).
 
