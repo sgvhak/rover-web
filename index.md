@@ -5,12 +5,17 @@ Currently using the following URL, until we figure out a domain name.  [http://b
 Just for fun, we did a [A Rover's Tour of JPL](https://photos.app.goo.gl/5oCEGBRYethgrxN69), a photo story of special JPL tour for Achille's rover, Raf.  I'm really proud about how it turned out.  
 
 # September 2024
-It's September 27th.
+It's September 27th. 
+
+We've hosted several build sessions since April 2024.   We've also visited with Girls in STEM to help out during their rover build sessions.
+
+The team has expanded. The goal of the SGVHAK Rover is to be a learning experience, so we welcome anyone who wants to learn.  Currently, we have Lan Dang, David Wu, Moises Santander, Spencer Sullivan, Kailey Trinh, Emily Crowl, Jorge, Summer Shin, [FTC Team Beyond Robotics](https://beyondrobotics.org).   
+
 We finished the mechanical assembly a few days ago.  We are still wrapping up the wiring and making headway on the PCB assembly.
 
 We will be exhibiting at [Explore Caltech](https://wispcarey.github.io/Explore_Caltech/) on September 28th to raise awareness of the Open Source Rover and get more people involved.  
 
-We also started up a [wiki](https://opensourcerover.atlassian.net/wiki/x/1IEC) for the OSR on Atlassian Confluence, so we could have a site to point people to
+We also started up a [wiki](https://opensourcerover.atlassian.net/wiki/x/1IEC) for the OSR on Atlassian Confluence.
 
 
 # March 2024
@@ -45,7 +50,7 @@ And it was immortalized in a [special quilt](https://www.pasadenaweekly.com/spec
 <img src="sgvhak_rover_quilt.jpg" alt="SGVHAK Rover redesign" width="300px" />
 
 
-# March 2020
+# March 2019
 We just exhibited at the [Caltech Science for March](http://scienceformarch.sites.caltech.edu/) on March 16th, from 10am to 3pm.
 
 We just presented our talk, ["The Trouble with Rovers"](https://www.socallinuxexpo.org/scale/17x/presentations/trouble-rovers) ([Slides](https://docs.google.com/presentation/d/1sczb-v-xm3jRvuGROQYNIzgqs63-SdqZXXZWUAy3kEY/present#slide=id.p)) at the [Southern California Linux Expo](https://www.socallinuxexpo.org/scale/17x) at the Pasadena Convention Center on March 9th.
@@ -119,4 +124,9 @@ For posterity, here is a timeline of events, to the best of our memory.
 * Feb 20, 2019 - SGVHAK Rover borrowed for JPL outreach event at Logan McBride HS in Long Beach
 * Mar 9, 2019 - "Trouble with Rovers" talk at SCALE 17x - new LED face
 * Mar 16, 2019 - Caltech Science for March, with Santa Susana HS
+* Oct 2023 - We start building OSR 2.0 by ordering parts
+* Mar 8, 2024 - Southern Califonria Linux Expo The Next Generation Playground
+* August and September 2024 - We help out with Girls in STEM's rover building sessions.
+* Sep 28, 2024 - Explore Caltech, with Beyond Robotics
+  
 
