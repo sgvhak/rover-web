@@ -4,6 +4,15 @@ Currently using the following URL, until we figure out a domain name.  [http://b
 # A Rover's Tour of JPL
 Just for fun, we did a [A Rover's Tour of JPL](https://photos.app.goo.gl/5oCEGBRYethgrxN69), a photo story of special JPL tour for Achille's rover, Raf.  I'm really proud about how it turned out.  
 
+# September 2024
+It's September 27th.
+We finished the mechanical assembly a few days ago.  We are still wrapping up the wiring and making headway on the PCB assembly.
+
+We will be exhibiting at [Explore Caltech](https://wispcarey.github.io/Explore_Caltech/) on September 28th to raise awareness of the Open Source Rover and get more people involved.  
+
+We also started up a [wiki](https://opensourcerover.atlassian.net/wiki/x/1IEC) for the OSR on Atlassian Confluence, so we could have a site to point people to
+
+
 # March 2024
 It's March 23rd.
 
