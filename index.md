@@ -15,7 +15,7 @@ We finished the mechanical assembly a few days ago.  We are still wrapping up th
 
 We will be exhibiting at [Explore Caltech](https://wispcarey.github.io/Explore_Caltech/) on September 28th to raise awareness of the Open Source Rover and get more people involved.  
 
-We also started up a [wiki](https://opensourcerover.atlassian.net/wiki/x/1IEC) for the OSR on Atlassian Confluence.
+We also started up a [wiki](https://opensourcerover.atlassian.net/wiki/x/1IEC) for the OSR on Atlassian Confluence as a landing page for our outreach efforts.  It is particularly to support our current work on making it easier for schools and clubs to build the rover, as well as suggest lessons that can be associated with each build step.
 
 
 # March 2024
