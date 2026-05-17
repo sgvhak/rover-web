@@ -1,6 +1,12 @@
 
 Currently using the following URL, until we figure out a domain name.  [http://bit.ly/sgvhak_rover](http://bit.ly/sgvhak_rover)  You can contact us at the following email address: `sgvhakrover at gmail dot com`
 
+# May 2026
+We have been building the rover and exhibiting at maker faires and such things.
+We are in the home stretch with our rover build, and will finally get to the software part.
+In the meantime, we have learned a lot about how to build the rover with students, as well as the gotchas of building the rover ourselves.   We are lucky enough to have Bobert as our reference model in this final stretch of installing the wiring and checking the mechanical part of the build.
+
+
 # A Rover's Tour of JPL
 Just for fun, we did a [A Rover's Tour of JPL](https://photos.app.goo.gl/5oCEGBRYethgrxN69), a photo story of special JPL tour for Achille's rover, Raf.  I'm really proud about how it turned out.  
 
